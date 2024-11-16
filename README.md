@@ -25,12 +25,7 @@ This project explores and analyzes the `restaurant_db` database to extract meani
 
 3. **`Restaurant Order Analysis.sql`**  
    - SQL queries for analysis, organized by objectives and topics.
-
-## 🛠️ Prerequisites
-To run this analysis, you'll need:
-- A SQL database environment (e.g., MySQL or PostgreSQL).
-- Basic knowledge of SQL for executing and modifying queries.
-- Import the database using `create_restaurant_db.sql`.
+     
 
 ## 🚀 Getting Started
 1. **Set Up the Database**  
