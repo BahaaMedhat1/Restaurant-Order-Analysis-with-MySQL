@@ -13,6 +13,12 @@ This project explores and analyzes the `restaurant_db` database to extract meani
    - Evaluate popular menu items based on order frequency.  
    - Identify the busiest times and peak order periods.  
    - Assess customer spending trends.
+     
+3. **Analyze customer behavior**
+   - What were the least and most ordered items? What categories were they in?
+   - What were the top 5 orders that spent the most money?
+   - View the details of the highest spend order. Which specific items were purchased?
+   - View the details of the top 5 highest spend orders.
 
 ## 📂 File Structure
 ### Files Included
